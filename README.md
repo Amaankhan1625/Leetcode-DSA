@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
+| [2965-find-missing-and-repeated-values](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [2965-find-missing-and-repeated-values](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Union-Find
 |  |
 | ------- |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
+| [2965-find-missing-and-repeated-values](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -55,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
+## Math
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
