@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -66,5 +67,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
