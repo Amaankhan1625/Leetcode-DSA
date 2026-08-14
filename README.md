@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
