@@ -75,11 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [2965-find-missing-and-repeated-values](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
