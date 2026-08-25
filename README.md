@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0403-frog-jump](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0198-house-robber) |
+| [0403-frog-jump](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 ## Math
 |  |
