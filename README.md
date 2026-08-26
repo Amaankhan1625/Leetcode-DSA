@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0198-house-robber) |
