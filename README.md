@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0198-house-robber) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
