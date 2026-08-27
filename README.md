@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0018-4sum) |
+| [0151-reverse-words-in-a-string](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0062-unique-paths) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
