@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [2965-find-missing-and-repeated-values](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Union-Find
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [1903-largest-odd-number-in-string](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
