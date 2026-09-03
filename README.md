@@ -191,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
