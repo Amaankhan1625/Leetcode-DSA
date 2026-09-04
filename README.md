@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0069-sqrtx) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
