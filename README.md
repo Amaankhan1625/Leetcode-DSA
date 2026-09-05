@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0018-4sum) |
 | [0141-linked-list-cycle](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Tree
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Memoization
 |  |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0237-delete-node-in-a-linked-list) |
@@ -226,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
