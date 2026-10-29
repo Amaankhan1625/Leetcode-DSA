@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0063-unique-paths-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0148-sort-list) |
