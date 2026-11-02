@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Amaankhan1625/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Memoization
